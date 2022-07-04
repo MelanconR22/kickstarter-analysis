@@ -23,9 +23,10 @@ The graph was compiled of all Theater campaigns for all years and is divided int
 The following chart shows the Outcomes Based on Goals:
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/107599510/177090858-cad2f424-7a5b-4bd2-8a2a-26adcd71f422.png)
 
-I believe it is important to take a deeper look at the data in order to make sense of this graph.  The graph lines for percentage successful and percentage failed are inverse.  This is due to having 0 cancelled campaigns in this data set and the fact that we are looking at the two as a percentage against each other. In the data for this chart, there were a total of 1,047 campaigns listed as successful, failed, or cancelled for the subcategory of plays.  The sum of the total number of campaigns that had a funding goal of less than $10,000 is 889 or 84.9%.  This explains why the first half of the chart shows gradual movement while the second half of the chart is a bit more erratic.
+The data provided in the outcomes based on goals chart shows how many successful, failed, or cancelled campaigns there were for a given funding goal range.
 
-The data provided in the outcomes based on goals chart shows how many successful, failed, or cancelled campaigns there were for a given funding goal range.  
+I believe it is important to take a deeper look at the data in order to make sense of this graph.  The graph lines for percentage successful and percentage failed are inverse.  This is due to having 0 cancelled campaigns in this data set and the fact that we are looking at the two as a percentage against each other. In the data for this chart, there were a total of 1,047 campaigns listed as successful, failed, or cancelled for the subcategory of plays.  The sum of the total number of campaigns that had a funding goal of less than $10,000 is 889 or 84.9%.  This explains why the first half of the chart shows gradual movement while the second half of the chart is a bit more erratic.
+  
 ## Results
 #### What are two conclusions you can draw abou the Outcomes based on Launch Date?
 There are two conclusions that stand out based on the results of data anlysis based on the outcomes by launch date.  The conclusions are that May has the most successful amount of campaigns while December has the fewest amount of successful campaigns.  June wasn't far behind May with a 65.4% success rate compared to 66.9% success rate for May, however, June had 13 fewer campaigns than in May. 
