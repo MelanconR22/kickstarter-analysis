@@ -11,6 +11,7 @@ Upon reviewing the data from Kickstarter campaigns, Louise came close to raising
 The data set that was provided for this project contained information relating to just over 4,100 crowdfunding campaigns that are using Kickstarter to raise funds.  The data set provided information on the funding goal of each campaign as well as the funding amount raised.  There were campaigns from all over the world and also in a wide variety of categories.  The categories were divided into fields such as film, music, games, technology, and theater among others.  The data also provided information about the launch date and number of backers who contributed to the campaign.  
 
 The data provided information that allowed further insight by calculating the percentage funded as well as average donation amount.  The categories were broken out further into subcategories so that we coul drill down the data to gain insights from theater campaigns for Louis. The theater campaigns were further filtered to show only campaigns in the United States instead of globally.  There were a total of 912 theater campaigns with 525 successful campaigns for a success rate of 57.6%.  The data was then analyzed by the play subcategory which resulted in 671 total play campaigns of which 412 or 61.4% were successful in raising their goal for funding.       
+### Challenges and Difficulties Encountered
 
 ### Analysis of Outcomes Based on Launch Date
 The following chart shows the Outcomes Based on Launch Date:
@@ -20,10 +21,10 @@ The graph was compiled of all Theater campaigns for all years and is divided int
 
 ### Analysis of Outcomes Based on Goals
 The following chart shows the Outcomes Based on Goals:
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/107599510/177087556-927513e2-2773-4c43-9713-20caebaedc88.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/107599510/177090858-cad2f424-7a5b-4bd2-8a2a-26adcd71f422.png)
 
-### Challenges and Difficulties Encountered
 
+The data provided in the outcomes based on goals chart shows how many successful, failed, or cancelled campaigns there were for a given funding goal range.  
 ## Results
 #### What are two conclusions you can draw abou the Outcomes based on Launch Date?
 There are two conclusions that stand out based on the results of data anlysis based on the outcomes by launch date.  The conclusions are that May has the most successful amount of campaigns while December has the fewest amount of successful campaigns.  June wasn't far behind May with a 65.4% success rate compared to 66.9% success rate for May, however, June had 13 fewer campaigns than in May. 
