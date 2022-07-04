@@ -12,6 +12,7 @@ The dataset that was provided for this project contained information relating to
 
 The dataset provided information that allowed further insight by calculating the percentage funded as well as average donation amount.  The categories were broken out further into subcategories so that we coul drill down the data to gain insights from theater campaigns for Louis. The theater campaigns were further filtered to show only campaigns in the United States instead of globally.  There were a total of 912 theater campaigns with 525 successful campaigns for a success rate of 57.6%.  The data was then analyzed by the play subcategory which resulted in 671 total play campaigns of which 412 or 61.4% were successful in raising their goal for funding.       
 ### Challenges and Difficulties Encountered
+Being new to data analytics, I encountered some challenges when beginning this project.  
 
 ### Analysis of Outcomes Based on Launch Date
 ##### The following chart shows the Outcomes Based on Launch Date:
@@ -42,7 +43,7 @@ The information in this chart shows the concentration level of campaigns per fun
 There are two conclusions that stand out based on the results of data anlysis based on the outcomes by launch date.  The conclusions are that May has the most successful amount of campaigns while December has the fewest amount of successful campaigns.  June wasn't far behind May with a 65.4% success rate compared to 66.9% success rate for May, however, June had 13 fewer campaigns than in May. 
 
 #### What can you conclude about the Outcomes based on Goals?
-Looking at the data for outcomes based on goals, it is easy to conclude that there would be more campaigns raising $4,999 or less than campaigns asking to raise $5,000 or more.  For Louise's campgain, she had a fundraising goal of $12,000.  Based on the data for the play subcategory, campaigns similar to hers have had a success rate of 54.2%.  There were a total of 72 plays in the same goal range with 39 campaigns reaching their goal.   
+Looking at the data for outcomes based on goals, it is easy to conclude that there would be more campaigns raising $4,999 or less than campaigns asking to raise $5,000 or more.  It would also be logical to conclude that asking for a smaller funding goal would lead to a higher success rate.  For Louise's campgain, she had a fundraising goal of $12,000.  Based on the data for the play subcategory, campaigns similar to hers have historically had a success rate of 54.2%.  There were a total of 72 plays in the same goal range with 39 campaigns reaching their goal.   
 
 #### What are some limitations of this dataset?
 This dataset provides a wide range of valuable information and provides data to allow a data analyst to calculate percentages and ratios to help tell the story the data is showing us.  I would like to be able to analyze factors that would help lead to a conclusion on what makes May the most successful month and December the most unsuccessful month.  A person can come up with their own theories of why this is but the dataset doesn't provide information to examine this.  Additionally, I believe that some analysis on where the backers for the campgains lived would be useful.  It would allow a data analyst to determine if there was a proximity limit for people willing to donate funds for theater production.
