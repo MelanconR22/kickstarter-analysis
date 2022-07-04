@@ -8,9 +8,9 @@ Upon reviewing the data from Kickstarter campaigns, Louise came close to raising
 
 ## Analysis and Challenges:
 
-The data set that was provided for this project contained information relating to just over 4,100 crowdfunding campaigns that are using Kickstarter to raise funds.  The data set provided information on the funding goal of each campaign as well as the funding amount raised.  There were campaigns from all over the world and also in a wide variety of categories.  The categories were divided into fields such as film, music, games, technology, and theater among others.  The data also provided information about the launch date and number of backers who contributed to the campaign.  
+The dataset that was provided for this project contained information relating to just over 4,100 crowdfunding campaigns that are using Kickstarter to raise funds.  The dataset provided information on the funding goal of each campaign as well as the funding amount raised.  There were campaigns from all over the world and also in a wide variety of categories.  The categories were divided into fields such as film, music, games, technology, and theater among others.  The dataset also provided information about the launch date and number of backers who contributed to the campaign.  
 
-The data provided information that allowed further insight by calculating the percentage funded as well as average donation amount.  The categories were broken out further into subcategories so that we coul drill down the data to gain insights from theater campaigns for Louis. The theater campaigns were further filtered to show only campaigns in the United States instead of globally.  There were a total of 912 theater campaigns with 525 successful campaigns for a success rate of 57.6%.  The data was then analyzed by the play subcategory which resulted in 671 total play campaigns of which 412 or 61.4% were successful in raising their goal for funding.       
+The dataset provided information that allowed further insight by calculating the percentage funded as well as average donation amount.  The categories were broken out further into subcategories so that we coul drill down the data to gain insights from theater campaigns for Louis. The theater campaigns were further filtered to show only campaigns in the United States instead of globally.  There were a total of 912 theater campaigns with 525 successful campaigns for a success rate of 57.6%.  The data was then analyzed by the play subcategory which resulted in 671 total play campaigns of which 412 or 61.4% were successful in raising their goal for funding.       
 ### Challenges and Difficulties Encountered
 
 ### Analysis of Outcomes Based on Launch Date
@@ -30,6 +30,10 @@ The data provided in the outcomes based on goals chart shows how many successful
 There are two conclusions that stand out based on the results of data anlysis based on the outcomes by launch date.  The conclusions are that May has the most successful amount of campaigns while December has the fewest amount of successful campaigns.  June wasn't far behind May with a 65.4% success rate compared to 66.9% success rate for May, however, June had 13 fewer campaigns than in May. 
 
 #### What can you conclude about the Outcomes based on Goals?
+I believe it is important to take a deeper look at the data in order to make sense of this graph.  The graph lines for percentage successful and percentage failed are inverse.  This is due to having 0 cancelled campaigns in this data set and the fact that we are looking at the two as a percentage against each other. In the data for this chart, there were a total of 1,047 campaigns listed as successful, failed, or cancelled for the subcategory of plays.  The sum of the total number of campaigns that had a funding goal of less than $10,000 is 889 or 84.9%.  This explains why the first half of the chart shows gradual movement while the second half of the chart is a bit more erratic.   
+
+#### What are some limitations of this dataset?
+This dataset provides a wide range of valuable information and provides data to allow a data analyst to calculate percentages and ratios to help tell the story the data is showing us.  I would like to be able to analyze factors that would help lead to a conclusion on what makes May the most successful month and December the most unsuccessful month.  A person can come up with their own theories of why this is but the dataset doesn't provide information to examine this. 
 
 #### What are some other possible tables and/or graphs that we could create?
 
