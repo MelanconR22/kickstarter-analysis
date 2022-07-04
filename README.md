@@ -17,6 +17,8 @@ The following chart shows the Outcomes Based on Launch Date:
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/107599510/177086201-17850191-b754-4416-9840-459015a0798a.png)
 
 ### Analysis of Outcomes Based on Goals
+The following chart shows the Outcomes Based on Goals:
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/107599510/177087556-927513e2-2773-4c43-9713-20caebaedc88.png)
 
 ### Challenges and Difficulties Encountered
 
