@@ -8,6 +8,9 @@ Upon reviewing the data from Kickstarter campaigns, Louise came close to raising
 
 ## Analysis and Challenges:
 
+The data set that was provided for this project contained information relating to 4,113 crowdfunding campaigns that are using Kickstarter to raise funds.  The data set provided information on the funding goal of each campaign as well as the funding amount raised.  There were campaigns from all over the world and also in a wide variety of categories.  The categories were divided into fields such as film, music, games, technology, and theater among others.  The data also provided information about the launch date and number of backers who contributed to the campaign.  
+
+
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
