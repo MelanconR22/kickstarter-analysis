@@ -13,6 +13,8 @@ The data set that was provided for this project contained information relating t
 The data provided information that allowed further insight by calculating the percentage funded as well as average donation amount.  The categories were broken out further into subcategories so that we coul drill down the data to gain insights from theater campaigns for Louis. The theater campaigns were further filtered to show only campaigns in the United States instead of globally.  There were a total of 912 theater campaigns with 525 successful campaigns for a success rate of 57.6%.  The data was then analyzed by the play subcategory which resulted in 671 total play campaigns of which 412 or 61.4% were successful in raising their goal for funding.       
 
 ### Analysis of Outcomes Based on Launch Date
+The following chart shows the Outcomes Based on Launch Date:
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/107599510/177086201-17850191-b754-4416-9840-459015a0798a.png)
 
 ### Analysis of Outcomes Based on Goals
 
